@@ -1,0 +1,24 @@
+2024/02/01-19:48:25.528 2d10 Reusing MANIFEST C:\Users\admin_yb\Desktop\StickerWhatsAppBOT-main\.wwebjs_auth\session-client\Default\Local Storage\leveldb/MANIFEST-000001
+2024/02/01-19:48:25.544 2d10 Recovering log #230
+2024/02/01-19:48:25.545 2d10 Reusing old log C:\Users\admin_yb\Desktop\StickerWhatsAppBOT-main\.wwebjs_auth\session-client\Default\Local Storage\leveldb/000230.log 
+2024/02/01-20:48:54.161 1668 Level-0 table #234: started
+2024/02/01-20:48:54.173 1668 Level-0 table #234: 16093 bytes OK
+2024/02/01-20:48:54.175 1668 Delete type=0 #230
+2024/02/02-23:10:18.136 2470 Level-0 table #236: started
+2024/02/02-23:10:18.150 2470 Level-0 table #236: 12736 bytes OK
+2024/02/02-23:10:18.152 2470 Delete type=0 #233
+2024/02/04-02:11:29.355 2f60 Level-0 table #238: started
+2024/02/04-02:11:29.368 2f60 Level-0 table #238: 12491 bytes OK
+2024/02/04-02:11:29.369 2f60 Delete type=0 #235
+2024/02/04-02:11:29.370 2f60 Compacting 4@0 + 1@1 files
+2024/02/04-02:11:29.375 2f60 Generated table #239@0: 84 keys, 5890 bytes
+2024/02/04-02:11:29.375 2f60 Compacted 4@0 + 1@1 files => 5890 bytes
+2024/02/04-02:11:29.376 2f60 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/04-02:11:29.376 2f60 Delete type=2 #229
+2024/02/04-02:11:29.376 2f60 Delete type=2 #231
+2024/02/04-02:11:29.376 2f60 Delete type=2 #234
+2024/02/04-02:11:29.376 2f60 Delete type=2 #236
+2024/02/04-02:11:29.376 2f60 Delete type=2 #238
+2024/02/05-03:02:45.615 f3c Level-0 table #241: started
+2024/02/05-03:02:45.628 f3c Level-0 table #241: 12986 bytes OK
+2024/02/05-03:02:45.629 f3c Delete type=0 #237
