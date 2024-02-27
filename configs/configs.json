@@ -1,6 +1,6 @@
 {
-    "name": "KanaBot",
-    "author": "",
+    "name": "DoubleMBot",
+    "author": " github/aftereffexts fork by yessa",
     "prefix": "!",
     "timezone": "Europe/Berlin",
     "groups": true

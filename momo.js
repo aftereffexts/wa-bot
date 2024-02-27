@@ -19,7 +19,7 @@ const client = new Client({
         headless: true,
         args: [ '--no-sandbox', '--disable-setuid-sandbox' ]
     },
-    ffmpeg: './ffmpeg.exe',
+    ffmpeg: '$ffmpeg',
     authStrategy: new LocalAuth({ clientId: "client" })
 });
 

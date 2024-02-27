@@ -1,3 +1,2 @@
-2024/02/01-19:45:23.833 23e0 Reusing MANIFEST C:\Users\admin_yb\Desktop\StickerWhatsAppBOT-main\.wwebjs_auth\session-client\Default\Local Storage\leveldb/MANIFEST-000001
-2024/02/01-19:45:23.834 23e0 Recovering log #230
-2024/02/01-19:45:23.834 23e0 Reusing old log C:\Users\admin_yb\Desktop\StickerWhatsAppBOT-main\.wwebjs_auth\session-client\Default\Local Storage\leveldb/000230.log 
+2024/02/27-17:13:07.015 4788 Creating DB C:\Users\mohammedali.isik\git\wa-bot\.wwebjs_auth\session-client\Default\Local Storage\leveldb since it was missing.
+2024/02/27-17:13:07.217 4788 Reusing MANIFEST C:\Users\mohammedali.isik\git\wa-bot\.wwebjs_auth\session-client\Default\Local Storage\leveldb/MANIFEST-000001
